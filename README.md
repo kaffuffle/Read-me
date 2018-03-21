@@ -1,7 +1,7 @@
-# Snowflake
+# EPiC Snowflake (Scrum 3-5-3)
 
-Snowflake is Medium's tool for planning and supporting our engineers' career development. You can read more
-about how we use this tool in our [growth framework documentation](https://medium.com/s/engineering-growth-framework).
+Snowflake is the basis of a Scrum 3-5-3 team health check tool created by EPiC. It is used to capture an Agile Team's adoption and progression using Scrum based Agile.
+you can read more about Scrum Agile on the [Scrum.org website](https://www.scrum.org/).
 Our growth tool is hosted [publicly](https://snowflake.medium.com).
 
 ![The Lannisters send their regards](https://i.imgur.com/e9DYLBr.png)
