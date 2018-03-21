@@ -2,7 +2,7 @@
 
 Snowflake is the basis of a Scrum 3-5-3 team health check tool created by EPiC. It is used to capture an Agile Team's adoption and progression using Scrum based Agile.
 you can read more about Scrum Agile on the [Scrum.org website](https://www.scrum.org/).
-Our growth tool is hosted [publicly](https://snowflake.medium.com).
+Our agile health check tool is hosted [publicly](https://snowflake.medium.com).
 
 ![The Lannisters send their regards](https://i.imgur.com/e9DYLBr.png)
 
